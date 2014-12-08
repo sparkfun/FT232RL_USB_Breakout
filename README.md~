@@ -1,11 +1,11 @@
 FT232RL USB Breakout
 ====================
 
-[![FT232RL USB to Serial Breakout Board ](https://cdn.sparkfun.com//assets/parts/9/4/9/6/12731-01.jpg)
-*FT232RL USB to Serial Breakout Board (BOB-12731)*](https://www.sparkfun.com/products/12731)
+[![FT232RL USB to Serial Breakout Board ](https://dlnmh9ip6v2uc.cloudfront.net/images/products/7/1/8/00718-01_medium.jpg)
+*FT232RL USB to Serial Breakout Board (BOB-00718)*](https://www.sparkfun.com/products/718)
 
 This is a basic breakout board for FTDI's popular USB to UART IC.
-VCCIO is selectable between VCC and 3.3V with an on-board switch. 
+VCCIO is tied to 3.3V through a solder jumper. 
 
 
 Repository Contents
@@ -19,7 +19,7 @@ Product Versions
 
 Version History
 ---------------
-* [v3.6](https://github.com/sparkfun/FT232RL_USB_Breakout/tree/V_3.6) - Version 3.6 GitHub files.
+* [v3.6](URL for tag specific to this version) - Version 3.6 GitHub files.
 
 License Information
 -------------------
